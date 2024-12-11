@@ -1,7 +1,10 @@
 # Try-To-Fix
 TTF =Try To Fix is where u try to fix the html css and js code (learn to debug and learn to code)
 
-Level/Stages: 8
+Level/Stages: 9
+
+Hardest: E-Extra-Hard-2.zip 
+Rating: 9/10 in Difficulty
 
 Imade helpme.txt files in the levels If u need help just take a look inside
 
