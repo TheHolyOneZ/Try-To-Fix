@@ -7,10 +7,13 @@ TTF =Try To Fix is where u try to fix the html css and js code (learn to debug a
 ### _Everything Got Developed by Me Brick by Brick so if u liked the Try To Fix web apps Join my discord_
 
 
-Level/Stages: 11
+Level/Stages: 16
 
 Hardest: E-Extra-Hard-2.zip (HTLM-JS)
 Rating: 9/10 in Difficulty
+
+PY-E-Extra-Hard-1           (PYTHON)
+Rating: 9/10 in Difficulty 
 
 Imade helpme.txt files in the levels If u need help just take a look inside
 
